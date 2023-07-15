@@ -1,0 +1,26 @@
+[
+  {
+    "id": "GGOEAFKA087499",
+    "name": "Android Small",
+    "image": "https://picsum.photos/200/300",
+    "price": "2.99"
+  },
+  {
+    "id": "GGOEAFKA087599",
+    "name": "Android Large",
+    "image": "https://picsum.photos/id/237/200/300",
+    "price": "2.99"
+  },
+  {
+    "id": "GGOEGEBK094499",
+    "name": "Google Bot",
+    "image": "https://picsum.photos/seed/picsum/200/300",
+    "price": "9.99"
+  },
+  {
+    "id": "GGOEGFKA086699",
+    "name": "Google Emoji",
+    "image": "https://picsum.photos/200/300?grayscale",
+    "price": "4.99"
+  }
+]

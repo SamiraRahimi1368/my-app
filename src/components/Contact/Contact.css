@@ -1,0 +1,30 @@
+.Contact {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: red;
+  padding: 30px;
+}
+
+.formControl {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.formControl button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.formControl button:hover {
+  background-color: #45a049;
+}

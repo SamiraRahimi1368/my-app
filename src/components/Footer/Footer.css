@@ -1,0 +1,30 @@
+.Footer {
+    border-top: 1px solid gray;
+    padding: 10px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.Footer h5 {
+    padding: 0px;
+    margin: 0px;
+}
+.Footer button {
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 2px;
+}
+
+/* Footer.css */
+.green {
+    background-color: green;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+
+  
+  
+  
